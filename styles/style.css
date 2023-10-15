@@ -362,6 +362,7 @@ body {
         font-size: 18px;
         font-weight: 400;
         white-space: nowrap;
+        border-bottom: 1px solid transparent;
     }
     
     .footer__menu {
